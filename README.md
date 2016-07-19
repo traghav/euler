@@ -1,5 +1,3 @@
-Solution to random [Project Euler](https://projecteuler.net/) problems. To pickup new languages and tools.
-------
 #[Goldbach's other conjecture](https://projecteuler.net/problem=46)
 Learning Vim
 ```
