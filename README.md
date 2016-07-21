@@ -7,7 +7,7 @@ It turns out that the conjecture was false.
 
 What is the smallest odd composite that cannot be written as the sum of a prime and twice a square?
 ```
-Solution is 5777.
+Solution is 5777
 ----
 # Lychrel numbers
 Problem 55 (Used Python and Vim)
@@ -30,4 +30,13 @@ Surprisingly, there are palindromic numbers that are themselves Lychrel numbers;
 How many Lychrel numbers are there below ten-thousand?
 
 ```
+
+Execution time for regular implementation 0.28841s
+
+Execution time for parallelized implementation 0.226910s
+
+Execution time for hashed implementation 0.887396s (What? Why? 😶)
+
+
+Solution is 249
 ----
